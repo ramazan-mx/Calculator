@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class RomanNumerals {
+class RomanNumerals {
     public static final Map<String, Integer> numerals = new HashMap<>();
 
     static {

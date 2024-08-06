@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class ArabicNumerals {
+class ArabicNumerals {
     public static final Map<String, Integer> numerals = new HashMap<>();
 
     static {
